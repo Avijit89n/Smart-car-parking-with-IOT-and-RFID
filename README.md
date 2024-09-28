@@ -26,10 +26,11 @@ This RFID-Based Car Parking System integrates IoT and RFID technology to manage 
 - Google Sheets API (for logging user entry data)
 
 ## System Components
-- Microcontroller: ESP8266/NodeMCU or Arduino with IoT connectivity.
+- Microcontroller: ESP32 
 - RFID Reader: MFRC522 module for detecting RFID tags/cards.
 - LCD Display: 20x4 I2C LCD for displaying available parking slots.
 - Relay Module: Controls the entry gate via the Blynk app.
 - Blynk App: Displays real-time slot status and provides remote control for the entry gate.
 - Google Sheets: Logs RFID cardholder details (name, time, date) for tracking purposes.
 - RFID Tags: Unique tags for each registered car/individual.
+- IR Sensor Integration: Utilizes IR sensors to detect whether a parking slot is booked or empty.
