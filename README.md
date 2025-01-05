@@ -34,3 +34,9 @@ This RFID-Based Car Parking System integrates IoT and RFID technology to manage 
 - Google Sheets: Logs RFID cardholder details (name, time, date) for tracking purposes.
 - RFID Tags: Unique tags for each registered car/individual.
 - IR Sensor Integration: Utilizes IR sensors to detect whether a parking slot is booked or empty.
+
+## Screenshot
+![1727534349082 (1)](https://github.com/user-attachments/assets/3c9264aa-9515-40c0-8df3-5d1051c481a6)
+![1727534349178](https://github.com/user-attachments/assets/8b366ead-03f3-4670-b0f3-3ca0f9a7b11b)
+
+
